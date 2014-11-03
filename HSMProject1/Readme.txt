@@ -1,9 +1,3 @@
-K-Means-with-heuristic-methods
-==============================
-This is a generic application to improve K-Means clustering with some heuristics. I used dataset from UCI Machine Learning repository's Household Electric Consumption. Mainly what the application does is that, it seperates data into equal clusters and after converging, swaps some points and seeks a better solution. At the end it compares the results with standard K-Means. As the K value gets big, EqualClusterKMeans outnumbers StandardKmeans.
-
-Here are some instructions about the application:
-
 1. In order to run the application, user is needed to unzip  the file
 1. User is needed to give (at least) one input - the K value from command line and then just run the program. The related output and
 	applications, results will be displayed on console
