@@ -12,6 +12,6 @@
 6. To ensure that Java heap space will not crush,increase Java Heap Space by, (by default it do not crashes)
 	6.1 If user runs from eclipse:From run->configurations,add -Xms1024M -Xmx1524M to VM arguments
 	6.2 If user runs program from commandline, run as java -Xms1024M -Xmx1524M HSMProject1
-7. For low K numbers, StandardKMeans acts better, but as K gets bigger, Heuristic Version of KMeans acts better
+7. For low K numbers, StandardKMeans acts better, but as K gets bigger, Heuristic Version of KMeans acts better.
 	
 	
